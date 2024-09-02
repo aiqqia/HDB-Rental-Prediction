@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+geopandas
+category-encoders
+seaborn
+xgboost
+tqdm
